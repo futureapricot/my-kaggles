@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!*.ipynb
+!requirements*.txt
+!load_data.py

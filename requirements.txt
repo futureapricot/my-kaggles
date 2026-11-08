@@ -1,0 +1,14 @@
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+kagglehub
+lightgbm
